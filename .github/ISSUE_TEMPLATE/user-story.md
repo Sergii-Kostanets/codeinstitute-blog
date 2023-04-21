@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-As a **role** I can **capability** so that **benefit**
+As a **ROLE** I can **CAPABILITY** so that **BENEFIT**
 ## Acceptance criteria:
- * Acceptance criteria 1
- * Acceptance criteria 2
+ * Acceptance_criteria_1
+ * Acceptance_criteria_2
  ## Tasks:
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Task_1
+- [ ] Task_2
