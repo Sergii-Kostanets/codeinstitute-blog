@@ -21,9 +21,21 @@ python3 manage.py startapp blog
 Add app to installed apps in settings.py
 
 ```
+python3 manage.py makemigrations --dry-run
+
+python3 manage.py makemigrations
+
 python3 manage.py migrate --plan
 
 python3 manage.py migrate
-
+```
+```
 python3 manage.py runserver
+```
+```
+python3 manage.py createsuperuser
+```
+```
+pip3 install django-summernote
+pip3 freeze --local > requirements.txt
 ```
