@@ -39,3 +39,6 @@ python3 manage.py createsuperuser
 pip3 install django-summernote
 pip3 freeze --local > requirements.txt
 ```
+```
+pip3 install django-allauth
+```
