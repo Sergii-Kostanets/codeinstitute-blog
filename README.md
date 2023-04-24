@@ -50,4 +50,13 @@ ls ../.pip-modules/lib
 for MacOS:
 ```
 python3 --version
-``` 
+```
+
+Crispy:
+```
+pip3 install django-crispy-forms
+```
+Version:
+```
+pip3 install django-crispy-forms==1.14.0
+```
