@@ -42,3 +42,12 @@ pip3 freeze --local > requirements.txt
 ```
 pip3 install django-allauth
 ```
+Version of Python
+for GitPod:
+```
+ls ../.pip-modules/lib
+```
+for MacOS:
+```
+python3 --version
+``` 
